@@ -23,7 +23,9 @@ Bu proje, kullanıcının belirlediği karakter sınırı içinde bir cümle ala
 
 ## 💻 Kurulum ve Çalıştırma
 
-### 1. Depoyu Klonlayın
+### 1. Depoyu Klonlayın ve çalıştırın
 ```bash
 git clone https://github.com/Gokdenizzzngn/Java-Karakter-Analizi.git
 cd Java-Karakter-Analizi
+javac src/Question1.java
+java -cp src Question1
