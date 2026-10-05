@@ -25,5 +25,5 @@ Bu proje, kullanıcının belirlediği karakter sınırı içinde bir cümle ala
 
 ### 1. Depoyu Klonlayın
 ```bash
-git clone [https://github.com/Gokdenizzzngn/Java-Karakter-Analizi.git](https://github.com/Gokdenizzzngn/Java-Karakter-Analizi.git)
+git clone (https://github.com/Gokdenizzzngn/Java-Karakter-Analizi.git)
 cd Java-Karakter-Analizi
